@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "KubeOps.WareHouse": {
+      "commandName": "Project"
+    }
+  }
+}

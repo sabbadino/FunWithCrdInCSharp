@@ -1,0 +1,7 @@
+commonLabels:
+  operator-element: crd
+resources:
+- productavailabilityentities_experiments_warehouse.yaml
+- productinfoentities_experiments_warehouse.yaml
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
